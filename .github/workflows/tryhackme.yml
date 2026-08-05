@@ -1,0 +1,20 @@
+name: Update TryHackMe Stats
+
+on:
+  schedule:
+    # Her gün UTC saat 00:00'da çalışır
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Manuel olarak da tetiklenebilmesini sağlar
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch TryHackMe Stats & Update README
+        uses: p4p1/tryhackme-badge-workflow@main # Topluluk araçlarından biri
+        with:
+          username: "tolgakucuk"
+          # Gerekirse diğer yapılandırma parametreleri buraya eklenebilir
