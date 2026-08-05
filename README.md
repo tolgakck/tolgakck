@@ -2,7 +2,7 @@
 <h3 align="left">🎯 TryHackMe Profilim</h3>
 
 <p align="left">
-  <a href="https://tryhackme.com/p/tolgakucuk">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/tolgakucuk.png" alt="TryHackMe Badges" />
+  <a href="https://tryhackme.com/p/tolgakucuk" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-tolgakucuk-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe Profile" />
   </a>
 </p>
