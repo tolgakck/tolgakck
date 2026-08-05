@@ -1,4 +1,8 @@
 <br>
-<h3 align="left">🎯 TryHackMe </h3>
+<h3 align="left">🎯 TryHackMe Profilim</h3>
 
-[![TryHackMe Card](https://raw.githubusercontent.com/G1sT/TryHackMe-Badge/main/img/thm-profile-card-large.png?raw=true)](https://tryhackme.com/p/tolgakucuk)
+<p align="left">
+  <a href="https://tryhackme.com/p/tolgakucuk">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/tolgakucuk.png" alt="TryHackMe Badges" />
+  </a>
+</p>
